@@ -1,4 +1,11 @@
 h1 {
     color: blue;
     background-color: pink;
+    font-family: 'Combo', cursive;
+    font-family: 'Ms Madi', cursive;
+}
+
+p {
+    font-family: 'Combo', cursive;
+    font-family: 'Ms Madi', cursive;
 }
