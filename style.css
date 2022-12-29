@@ -3,9 +3,19 @@ h1 {
     background-color: pink;
     font-family: 'Combo', cursive;
     font-family: 'Ms Madi', cursive;
+    font-size: 96px;
 }
 
-p {
-    font-family: 'Combo', cursive;
-    font-family: 'Ms Madi', cursive;
+@import url('https://fonts.googleapis.com/css2?family=Combo&family=Ms+Madi&display=swap');
+
+
+.hero {
+    background: #f9f7fe;
+    text-align: center;
+
+}
+
+.hero p {
+    font-size: 36px;
+    font-weight: bold;
 }
