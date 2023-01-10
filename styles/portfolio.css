@@ -24,8 +24,18 @@ h1 {
     font-size: 96px;
 }
 
-h2 {
+.content h1 {
+    font-size: 50px;
+}
+
+
+.content h2 {
     font-size: 64px;
+}
+
+
+.content h3 {
+    font-size: 24px;
 }
 
 p {
