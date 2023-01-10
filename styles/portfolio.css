@@ -36,6 +36,8 @@ h1 {
 
 .content h3 {
     font-size: 24px;
+    line-height: 1.5px;
+    font-family: var(--default-font-family);
 }
 
 p {
